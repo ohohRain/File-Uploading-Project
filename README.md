@@ -4,12 +4,6 @@
 
 
 
-## Name ID username
-
-#### _Tomson Li 488501 tomsonlee13_
-#### _Rain 487627 Rain-0219_
-
-
 ## Link to file transfer website
 http://ec2-18-188-5-184.us-east-2.compute.amazonaws.com/~tomsonlee/module2-group-487627-488501/login_check.php
 
