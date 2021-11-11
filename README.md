@@ -1,14 +1,14 @@
 
-# CSE330S
- Module 2 Group work
+## File Uploading Project
+
+   by Rain and Tomson
 
 
 
 ## Link to file transfer website
-http://ec2-18-188-5-184.us-east-2.compute.amazonaws.com/~tomsonlee/module2-group-487627-488501/login_check.php
 
-## Available test users
-### _user1 user2 user3 testuser_
+http://ec2-18-188-135-121.us-east-2.compute.amazonaws.com/~Rain/module2-group-487627-488501/login_check.php
+
 
 ## Creative Portion
 We created an add user module to our file transfer system
@@ -35,9 +35,4 @@ We just use mkdir to create a directory for the user
 There are also codes to make sure no repeated username and/or empty username.
 
 
-### Grading:
- - -1.5: Not filtering input. Ex: $user_name = $_GET['userName']; 
- - -3: Main page does not pass the W3C validator: (Error: Element link is missing one or more of the following attributes: href, resource.)
- - -2: Site is not easy to navigate, need to manually pressing the back button after uploading or deleting file
- - +1 extra point: Login page is visually appealing!
- - -5: Not enough creative portion
+
